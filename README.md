@@ -1,4 +1,4 @@
-# TradeHub Java Consumer  
+# TradeHub Java Sample
 This project demonstrates how to use the **TradeHub Java SDK** (`in.codifi.tradehub`) from a separate Java application.  
 It shows how to call all supported TradeHub REST APIs and how to connect to the live WebSocket feed.
 
