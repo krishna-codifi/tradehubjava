@@ -1,5 +1,5 @@
 # TradeHub Java Sample
-### A Complete Demo of REST + WebSocket Integration using `tradehubgo`
+### A Complete Demo of REST + WebSocket Integration using `tradehubjava`
 
 ![Java Version](https://img.shields.io/badge/Java-17%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Test-yellow)
