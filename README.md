@@ -1,6 +1,10 @@
 # TradeHub Java Sample
 This project demonstrates how to use the **TradeHub Java SDK** (`in.codifi.tradehub`) from a separate Java application.  
 It shows how to call all supported TradeHub REST APIs and how to connect to the live WebSocket feed.
+![Java Version](https://img.shields.io/badge/Java-17%2B-blue)
+![Status](https://img.shields.io/badge/Status-Test-yellow)
+![WebSocket](https://img.shields.io/badge/WebSocket-Live%20Feed-success)
+![Build](https://img.shields.io/badge/Build-Maven%20%2F%20Manual-lightgrey)
 
 The code in this project resides in:
 
